@@ -71,6 +71,7 @@
 					"delete_confirm": "删除確認",
 					"auto_sort": "自動排序",
 					"show_original_content": "顯示原內容",
+					"auto_deduplicate": "自動去重",
 					"excluded_file_types": "排除指定類型文件",
 					"file_size_limit": "檔案大小限制"
 				},
@@ -84,6 +85,7 @@
 					"delete_confirm": "删除剪貼板內容時彈出確認對話方塊",
 					"auto_sort": "複製已存在的內容時排列到最前面",
 					"show_original_content": "添加備註後，滑鼠懸停時是否顯示原內容",
+					"auto_deduplicate": "複製已存在的內容時自動去重",
 					"excluded_file_types": "複製時，不保存指定類型的檔案",
 					"excluded_file_types_placeholder": "例如 .pdf .mp3",
 					"file_size_limit": "文件大小限制，預設 0 不限制，超過指定大小則在複製時不儲存該文件"
@@ -200,7 +202,8 @@
 				"back_to_top": "回到頂部",
 				"fixed_window": "固定視窗",
 				"open_preferences": "打開偏好設定",
-				"hide_window": "隱藏視窗"
+				"hide_window": "隱藏視窗",
+				"copy": "複製"
 			}
 		},
 		"data_backup": {
