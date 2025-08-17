@@ -25,6 +25,7 @@
 				"decorations": false,
 				"visible": false,
 				"transparent": true,
+				"shadow": true,
 				"alwaysOnTop": true,
 				"acceptFirstMouse": true,
 				"skipTaskbar": true,
@@ -45,6 +46,7 @@
 				"skipTaskbar": true,
 				"titleBarStyle": "Overlay",
 				"dragDropEnabled": false,
+				"shadow": true,
 				"windowEffects": {
 					"effects": ["sidebar"],
 					"state": "active"
