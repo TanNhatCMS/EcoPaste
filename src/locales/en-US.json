@@ -72,6 +72,8 @@
 					"auto_sort": "Auto Sort",
 					"show_original_content": "Show Original Content",
 					"auto_deduplicate": "Auto Deduplicate"
+					"excluded_file_types": "Exclude specified file types",
+					"file_size_limit": "File size limit"
 				},
 				"hints": {
 					"auto_paste": "Quickly paste content to the input field when using the left mouse button",
@@ -84,6 +86,9 @@
 					"auto_sort": "Alignment to the top when copying existing content",
 					"show_original_content": "Whether to display the original content on mouse hover after adding a note",
 					"auto_deduplicate": "Automatically deduplicate when copying existing content"
+					"excluded_file_types": "When copying, do not save files of the specified type",
+					"excluded_file_types_placeholder": "For example .pdf .mp3",
+					"file_size_limit": "File size limit, default 0 means no limit, if the file exceeds the specified size, the file will not be saved when copying"
 				}
 			}
 		},
