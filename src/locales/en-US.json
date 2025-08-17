@@ -71,7 +71,7 @@
 					"delete_confirm": "Delete Confirmation",
 					"auto_sort": "Auto Sort",
 					"show_original_content": "Show Original Content",
-					"auto_deduplicate": "Auto Deduplicate"
+					"auto_deduplicate": "Auto Deduplicate",
 					"excluded_file_types": "Exclude specified file types",
 					"file_size_limit": "File size limit"
 				},
@@ -85,7 +85,7 @@
 					"delete_confirm": "Pop-up confirmation dialog when deleting clipboard contents",
 					"auto_sort": "Alignment to the top when copying existing content",
 					"show_original_content": "Whether to display the original content on mouse hover after adding a note",
-					"auto_deduplicate": "Automatically deduplicate when copying existing content"
+					"auto_deduplicate": "Automatically deduplicate when copying existing content",
 					"excluded_file_types": "When copying, do not save files of the specified type",
 					"excluded_file_types_placeholder": "For example .pdf .mp3",
 					"file_size_limit": "File size limit, default 0 means no limit, if the file exceeds the specified size, the file will not be saved when copying"
